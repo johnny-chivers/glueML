@@ -5,7 +5,7 @@ Ml Data
 s3://ml-transforms-public-datasets-us-east-1/dblp-acm/records/dblp_acm_records.csv
 
 Transformation Name
-demo-xform-dblp-acm.
+demo-xform-dblp-acm
 
 Labels 
 s3://ml-transforms-public-datasets-us-east-1/dblp-acm/labels/dblp_acm_labels.csv
